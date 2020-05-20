@@ -1,4 +1,4 @@
-# cloudflare-dns-creator
+# JohnFordTV DNS Creator
 
 A simple PHP script to create DNS records using the Cloudflare PHP API.
 <img src="https://i.imgur.com/Fwxiwfs.png"/>
